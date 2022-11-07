@@ -1,8 +1,8 @@
-## Olá! Eu sou o Jefferson Machado
+## Hi! I am Jefferson Machado
 
-- 🔭 Atualmente trabalho como Educador no grupo Ânima Educação.
-- 🌱 Sou graduando em Ciência da Compuatação
-- 📫 Contate-me através do e-mail: jeffersonhenrique_1995@outlook.com
+- 🔭I currently work as an Educator in the Ânima Educação group.
+- 🌱 I'm majoring in Computer Science
+- 📫 Contact me via email: jeffersonhenrique_1995@outlook.com
 
 <div>
 <a href="https://github.com/jeffersonmachado95">
