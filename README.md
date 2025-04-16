@@ -16,8 +16,11 @@
 <div style="display: inline_block; background-color: #333; padding: 10px;">
   <br>
   <img align="center" alt="JeffersonCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="JeffersonGherkin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gherkin/gherkin-original.svg"/>
   <img align="center" alt="JeffersonPython" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
 </div>
 
 ##
