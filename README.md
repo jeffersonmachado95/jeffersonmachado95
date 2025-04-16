@@ -34,8 +34,6 @@ Sou apaixonado por tecnologia, educação e desenvolvimento de software. Atualme
 - 🌐 [Calculadora Web](https://github.com/seurepo)  
   Projeto simples de calculadora feita com HTML, CSS e JavaScript.
 
-*(Adicione aqui outros projetos quando quiser!)*
-
 ---
 
 ## 📊 GitHub Stats
