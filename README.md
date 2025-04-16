@@ -1,33 +1,67 @@
-## Hi! I am Jefferson Machado
+# 👋 Hi! I'm Jefferson Machado
 
-- 🔭 I currently work as an Educator in the Ânima Educação group.
-- 🌱 I'm majoring in Computer Science
-- 📫 Contact me via email: jeffersonhenrique_1995@outlook.com
+Sou apaixonado por tecnologia, educação e desenvolvimento de software. Atualmente trabalho como Educador no grupo Ânima Educação e estou cursando Ciência da Computação. Aqui no meu GitHub você vai encontrar projetos que combinam esses universos — desde códigos simples até experiências imersivas.
 
-<div style="background-color: #333; padding: 10px;">
+---
+
+## 🚀 O que você vai encontrar aqui
+
+- Projetos acadêmicos da faculdade de Ciência da Computação
+- Soluções com estruturas de dados e algoritmos
+- Projetos em Python, Java, HTML, CSS e JavaScript
+- Experimentos com realidade virtual (VR) e tecnologias imersivas
+
+---
+
+## 💻 Tecnologias que uso
+
+**Linguagens de Programação:**  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+
+**Web:**  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🎮 [Museu em Realidade Virtual](https://github.com/seurepo)  
+  Uma sala de museu virtual em primeira pessoa, feita em Unity para Google Cardboard.
+
+- 🌐 [Calculadora Web](https://github.com/seurepo)  
+  Projeto simples de calculadora feita com HTML, CSS e JavaScript.
+
+*(Adicione aqui outros projetos quando quiser!)*
+
+---
+
+## 📊 GitHub Stats
+
+<div>
   <a href="https://github.com/jeffersonmachado95">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonmachado95&show_icons=true&theme=dark&include-all-commits=true&count-private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonmachado95&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/jeffersonmachado95">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonmachado95&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
-<div style="display: inline_block; background-color: #333; padding: 10px;">
-  <br>
-  <img align="center" alt="JeffersonCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="center" alt="JeffersonPython" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+---
 
-</div>
+## 📫 Contato
 
-##
+Entre em contato comigo:
 
-<div>
-  <a href="mailto:jeffersonhenrique_1995@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jefferson-machado-baa51a170/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:jeffersonhenrique_1995@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-machado-baa51a170/)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=jeffersonmachado95&color=blue)
+![Status](https://img.shields.io/badge/status-developer-green)
+
 
 
