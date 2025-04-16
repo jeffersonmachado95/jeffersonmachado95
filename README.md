@@ -15,14 +15,15 @@ Sou apaixonado por tecnologia, educação e desenvolvimento de software. Atualme
 
 ## 💻 Tecnologias que uso
 
-**Linguagens de Programação:**  
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)
+**Linguagens de Programação:**
+<img align="center" alt="JeffersonPython" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 
 **Web:**  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
+<img align="center" alt="JeffersonJAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img align="center" alt="JeffersonCSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 
 ---
 
